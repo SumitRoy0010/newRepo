@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/newRepo/static/js/main.54b6b189.js",
+    "static/media/btc.png": "/newRepo/static/media/btc.04101b0b163c035fa57e.png",
+    "index.html": "/newRepo/index.html",
+    "main.54b6b189.js.map": "/newRepo/static/js/main.54b6b189.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.54b6b189.js"
+  ]
+}
